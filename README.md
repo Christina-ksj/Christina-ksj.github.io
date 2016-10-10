@@ -30,6 +30,21 @@
 	<li>item3</li>
 </ol>
 
+<table>
+	<tr>
+		<th>Job Type</th><th>Role</th>
+	</tr>
+	<tr>
+		<td>Planner</td><td>Plan</td>
+	</tr>
+	<tr>
+		<td>Designer</td><td>Design</td>
+	</tr>
+	<tr>
+		<td>developer</td><td>Develop</td>
+	</tr>
+</table>
+
 ```
 ![jcwZzang](images/김제하.jpg)
 - [The K2](https://www.youtube.com/watch?v=TzAS8AMUc1Q)
@@ -53,4 +68,4 @@
 
 1. item1
 1. item2
-1. item3dddd
+1. item3

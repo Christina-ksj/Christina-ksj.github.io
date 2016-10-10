@@ -4,7 +4,7 @@
 # TODO
 
 - [x] Study Markdown
-- [ ] Make 'index.html'
+- [ ] Make `index.html`
 
 ## Markdown 문법 사용법
 ```html

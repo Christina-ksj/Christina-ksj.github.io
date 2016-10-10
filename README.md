@@ -8,7 +8,7 @@
 
 ## Markdown 문법 사용법
 ```html
-<img src="http://img.etoday.co.kr/pto_db/2016/09/20160930075639_947517_600_408.jpg" alt="jcwZzang" width="200" height="136">
+<img src="images/김제하.jpg" alt="jcwZzang" width="200" height="136">
 
 
 <h1>heading 1</h1>
@@ -31,7 +31,7 @@
 </ol>
 
 ```
-![jcwZzang](http://img.etoday.co.kr/pto_db/2016/09/20160930075639_947517_600_408.jpg)
+![jcwZzang](images/김제하.jpg)
 
 # Markdown H1
 ## Markdown H2

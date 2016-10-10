@@ -1,5 +1,11 @@
 # Christina-ksj.github.io
 
+-
+# TODO
+
+- [x] Study Markdown
+- [ ] Make 'index.html'
+
 ## Markdown 문법 사용법
 ```html
 <h1>heading 1</h1>

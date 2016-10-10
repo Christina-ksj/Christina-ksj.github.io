@@ -31,7 +31,7 @@
 </ol>
 
 ```
-![jcwZzang][http://www.siminilbo.co.kr/news/photo/201610/480075_84109_240.jpg]
+![jcwZzang](http://www.siminilbo.co.kr/news/photo/201610/480075_84109_240.jpg)
 
 # Markdown H1
 ## Markdown H2

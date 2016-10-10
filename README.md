@@ -10,7 +10,6 @@
 ```html
 <img src="http://www.siminilbo.co.kr/news/photo/201610/480075_84109_240.jpg" alt="jcwZzang">
 
-![jcwZzang][http://www.siminilbo.co.kr/news/photo/201610/480075_84109_240.jpg]
 
 <h1>heading 1</h1>
 <h2>heading 2</h2>
@@ -32,6 +31,8 @@
 </ol>
 
 ```
+![jcwZzang][http://www.siminilbo.co.kr/news/photo/201610/480075_84109_240.jpg]
+
 # Markdown H1
 ## Markdown H2
 ### Markdown H3
